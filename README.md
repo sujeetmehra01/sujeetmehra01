@@ -41,4 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeetmehra01&show_icons=true&locale=en" alt="sujeetmehra01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetmehra01&" alt="sujeetmehra01" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetmehra01&show_icons=true&locale=en&layout=compact" alt="sujeetmehra01" width="400" height="320" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetmehra01&show_icons=true&locale=en&layout=compact" alt="sujeetmehra01" width="400" height="320" /></p>
