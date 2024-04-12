@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetmehra01&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetmehra01" /> </p>
 
-<img align="center" alt="GIF" src="https://github.com/sujeetmehra01/sujeetmehra01/assets/82982529/7676c475-8d11-44a8-a31f-58684a8f8b9d" width="500" height="320" />
-<br>
+<img align="center" alt="GIF" src="https://github.com/sujeetmehra01/sujeetmehra01/assets/82982529/7676c475-8d11-44a8-a31f-58684a8f8b9d" width="1000" height="320" />
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeetmehra01" alt="sujeetmehra01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sujeetmehra01" target="blank"><img src="https://img.shields.io/twitter/follow/sujeetmehra01?logo=twitter&style=for-the-badge" alt="sujeetmehra01" /></a> </p>
