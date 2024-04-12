@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SuJeet</h1>
-<p align="center">A passionate self-taught full stack web/app developer and a <mark>freelance software engineer</mark> from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+<p align="center">A passionate self-taught full stack web/app developer and a <u>freelance software engineer</u> from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetmehra01&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetmehra01" /> </p>
 
